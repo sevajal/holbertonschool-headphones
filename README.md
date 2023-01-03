@@ -10,3 +10,12 @@ Requirements:
     Links hover/active: #FF6565
     Button hover/active: opacity: 0.9
     Max width of the content: 1000px centered in the page
+
+## Desktop:
+<img src="https://github.com/sevajal/holbertonschool-headphones/blob/main/FromScratchDesktop.png" alt="Desktop"/>
+
+## Tablet:
+<img src="https://github.com/sevajal/holbertonschool-headphones/blob/main/FromScratchTablet.png" alt="Tablet"/>
+
+## Mobile:
+<img src="https://github.com/sevajal/holbertonschool-headphones/blob/main/FromScratchMobile.png" alt="Mobile"/>
