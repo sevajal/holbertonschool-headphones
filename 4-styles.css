@@ -18,7 +18,6 @@
     --color-black: #071629;
     --color-light-grey: #e4e0e0;
     --color-valid:#0b3800;
-    --font-family: 'Source Sans Pro';
     --font-weight-regular: 400;
     --font-weight-bold: 700;
     --font-size-x-small: 12px;
@@ -131,10 +130,6 @@ button {
     border-radius: 22px;
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
     width: 170px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-weight: var(--font-weight-bold);
 }
 
 h2 {
