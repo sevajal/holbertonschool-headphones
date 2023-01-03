@@ -132,6 +132,10 @@ button {
     width: 170px;
 }
 
+button:hover, button:active {
+    opacity: 0.9;
+}
+
 h2 {
     font-size: var(--font-size-x-large);
 }
@@ -648,6 +652,10 @@ footer {
     .section-title {
         padding-left: 5%;
         max-width: 90%;
+    }
+    form {
+        width: 90%;
+        padding-left: 10%;
     }
     .footer .row {
         flex-direction: column;
